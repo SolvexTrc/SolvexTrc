@@ -1,10 +1,14 @@
+<p align="center">
+  <a href="https://res.cloudinary.com/ddy9zirpm/video/upload/v1751040232/45963-447087626_bwps3h.mp4" target="_blank">
+    <img src="https://res.cloudinary.com/ddy9zirpm/image/upload/v1709420012/banner-placeholder_solvex.jpg" alt="Banner Solvex" style="width:100%; max-height:350px; object-fit:cover;">
+  </a>
+</p>
+
 # 🧠 Solvex – Creamos Soluciones Tecnológicas
 
+<p align="center">
 🚀 Innovamos para que tu empresa crezca con soluciones digitales personalizadas.
-
----
-
-![Video Background Preview](https://res.cloudinary.com/ddy9zirpm/video/upload/v1751040232/45963-447087626_bwps3h.mp4)
+</p>
 
 ---
 
@@ -34,19 +38,26 @@ Ser reconocidos como líderes globales en transformación tecnológica empresari
 
 ## 🧰 Stack Tecnológico
 
-Utilizamos una amplia gama de lenguajes y tecnologías para brindar soluciones de alto nivel:
+<p align="center">
+  
+🟨 JavaScript · 🔵 TypeScript · 🟢 Node.js · 🐘 PHP · ⚛️ React · 🐍 Python · ☕ Java  
+📱 Flutter · 🧑‍💻 Android Studio · 🍎 Swift · 🛠️ Xcode  
+🗄️ PostgreSQL · 🐬 MySQL · 🍃 MongoDB  
+☁️ AWS · ☁️ Azure · 🌊 DigitalOcean
 
-- 🐘 PHP
-- 🟢 Node.js
-- 🔵 TypeScript
-- ⚛️ React
-- 🐍 Python
-- ☕ Java
-- 🟨 JavaScript
-- 🧠 Inteligencia Artificial / OpenAI
-- 🐬 MySQL / PostgreSQL / MongoDB
-- ☁️ AWS / Azure / Google Cloud
-- 🔐 DevOps / CI-CD
+</p>
+
+---
+
+## 📊 Nuestras Estadísticas
+
+| Indicador                   | Resultado               |
+|----------------------------|-------------------------|
+| 🧑‍💼 Clientes atendidos     | +120                    |
+| 💻 Proyectos entregados     | +200                    |
+| ⚡ Incremento de eficiencia | +75%                    |
+| 🧠 Automatización           | +60% en atención al cliente |
+| 🚀 Aumento en ventas        | +240% en algunos casos  |
 
 ---
 
@@ -99,4 +110,6 @@ Consulta el archivo `CONTRIBUTING.md` y nuestro `Código de Conducta`.
 
 ---
 
-© 2025 **Solvex**. Todos los derechos reservados.
+<p align="center">
+  © 2025 <strong>Solvex</strong>. Todos los derechos reservados.
+</p>

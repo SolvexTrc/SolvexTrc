@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://res.cloudinary.com/ddy9zirpm/video/upload/v1751040232/45963-447087626_bwps3h.mp4" target="_blank">
-    <image src="https://res.cloudinary.com/ddy9zirpm/image/upload/v1750448489/LogoSolvex_wsvusu.jpg" alt="Banner Solvex" style="width:50%; max-height:50px; object-fit:cover;">
+    <image src="https://res.cloudinary.com/ddy9zirpm/image/upload/v1750448489/LogoSolvex_wsvusu.jpg" alt="Banner Solvex" style="width:20%; max-height:20px; object-fit:cover;">
   </a>
 </p>
 

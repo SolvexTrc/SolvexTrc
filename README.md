@@ -4,6 +4,10 @@
 
 ---
 
+![Video Background Preview](https://res.cloudinary.com/ddy9zirpm/video/upload/v1751040232/45963-447087626_bwps3h.mp4)
+
+---
+
 ## 🎯 Misión
 
 Ofrecer soluciones integrales que optimicen procesos, aumenten la eficiencia y maximicen los resultados, a través de herramientas tecnológicas innovadoras y automatización.
@@ -28,6 +32,24 @@ Ser reconocidos como líderes globales en transformación tecnológica empresari
 
 ---
 
+## 🧰 Stack Tecnológico
+
+Utilizamos una amplia gama de lenguajes y tecnologías para brindar soluciones de alto nivel:
+
+- 🐘 PHP
+- 🟢 Node.js
+- 🔵 TypeScript
+- ⚛️ React
+- 🐍 Python
+- ☕ Java
+- 🟨 JavaScript
+- 🧠 Inteligencia Artificial / OpenAI
+- 🐬 MySQL / PostgreSQL / MongoDB
+- ☁️ AWS / Azure / Google Cloud
+- 🔐 DevOps / CI-CD
+
+---
+
 ## 💎 Nuestros Valores
 
 - 💡 Innovación  
@@ -35,8 +57,6 @@ Ser reconocidos como líderes globales en transformación tecnológica empresari
 - 🏆 Excelencia  
 - ✅ Confiabilidad  
 - 👥 Enfoque en el cliente
-
----
 
 ---
 
@@ -59,10 +79,6 @@ Ser reconocidos como líderes globales en transformación tecnológica empresari
 
 > "La app que crearon superó expectativas. Soporte increíble."  
 > — **María González**
-
----
-
-
 
 ---
 

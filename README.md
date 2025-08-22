@@ -24,15 +24,15 @@ Ser reconocidos como líderes globales en transformación tecnológica empresari
 
 ## 💼 Servicios
 
-| Servicio                 | Descripción                                                                 | Desde         |
-|--------------------------|-----------------------------------------------------------------------------|---------------|
-| 🌐 Desarrollo Web        | Sitios profesionales, optimizados y responsivos                             | $1,200 MXN    |
-| 📱 Apps Móviles          | Aplicaciones Android/iOS nativas o híbridas                                 | $2,000 MXN    |
-| 🤖 Chatbots con IA       | Automatización de atención al cliente para WhatsApp y web                   | $900 MXN      |
-| 🛒 Tiendas en Línea      | E-commerce completo, seguro y adaptable                                     | $3,200 MXN    |
-| 🛠 Sistemas a Medida     | Desarrollo de ERPs, CRMs, inventarios y automatización personalizada        | A cotizar     |
-| 🔐 Auditoría & Seguridad | Protección de sistemas, backups, detección de vulnerabilidades              | A cotizar     |
-| ☁️ Infraestructura       | Bases de datos y servidores en la nube (AWS, Azure, GCP)                    | A cotizar     |
+| Servicio                 | Descripción                                                                 |
+|--------------------------|-----------------------------------------------------------------------------|
+| 🌐 Desarrollo Web        | Sitios profesionales, optimizados y responsivos                             |
+| 📱 Apps Móviles          | Aplicaciones Android/iOS nativas o híbridas                                 |
+| 🤖 Chatbots con IA       | Automatización de atención al cliente para WhatsApp y web                   |
+| 🛒 Tiendas en Línea      | E-commerce completo, seguro y adaptable                                     |
+| 🛠 Sistemas a Medida     | Desarrollo de ERPs, CRMs, inventarios y automatización personalizada        |
+| 🔐 Auditoría & Seguridad | Protección de sistemas, backups, detección de vulnerabilidades              |
+| ☁️ Infraestructura       | Bases de datos y servidores en la nube (AWS, Azure, GCP)                    |
 
 ---
 
